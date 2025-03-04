@@ -1,4 +1,4 @@
-:muscle: Murat Yücedağ'ın C# Eğitim kampı projesi kapsamında <br>
+## :muscle: Murat Yücedağ'ın C# Eğitim kampı projesi kapsamında <br>
 :raising_hand: -Temel yazdırma komutları<br>
 :snowflake: -Değişkenler konusu<br>
 :sparkler: -Döngüler konusunu <br>
